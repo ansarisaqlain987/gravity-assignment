@@ -12,4 +12,4 @@ It contains the solution for the mongodb question. The final database query can 
 
 ## `question4`
 
-It contains the react application for ToDo list.
+It contains the react application for ToDo list. The application is deployed on `https://gravity-todo-list.vercel.app/` and can be accessed.
