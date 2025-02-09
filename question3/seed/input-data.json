@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-06-15T00:00:00Z",
+    "store": "Store A",
+    "items": [
+      {
+        "name": "item1",
+        "quantity": 5,
+        "price": 10.0
+      },
+      {
+        "name": "item2",
+        "quantity": 3,
+        "price": 20.0
+      }
+    ]
+  },
+  {
+    "date": "2024-06-20T00:00:00Z",
+    "store": "Store A",
+    "items": [
+      {
+        "name": "item1",
+        "quantity": 50,
+        "price": 3.0
+      },
+      {
+        "name": "item2",
+        "quantity": 7,
+        "price": 8.0
+      }
+    ]
+  },
+  {
+    "date": "2024-06-16T00:00:00Z",
+    "store": "Store B",
+    "items": [
+      {
+        "name": "item1",
+        "quantity": 5,
+        "price": 26.0
+      },
+      {
+        "name": "item2",
+        "quantity": 9,
+        "price": 7.6
+      }
+    ]
+  }
+]
